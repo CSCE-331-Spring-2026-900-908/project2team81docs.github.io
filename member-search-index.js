@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"com.team81","c":"BobaShopGUI","l":"BobaShopGUI()","u":"%3Cinit%3E()","k":"3"},{"p":"com.team81","c":"DatabaseManager","l":"closeConnection()","k":"6"},{"p":"com.team81","c":"DatabaseManager","l":"getConnection()","k":"6"},{"p":"com.team81","c":"BobaShopGUI","l":"main(String[])","u":"main(java.lang.String[])","k":"6"}];updateSearchResults();
